@@ -15,6 +15,7 @@ dependencies:
   - r-e1071
   - r-randomforest
   - r-ellipse
+  - r-kernlab
   - pip
   - pip:
     - pandas
