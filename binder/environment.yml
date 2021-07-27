@@ -12,6 +12,9 @@ dependencies:
   - r-tidyverse
   - r-shiny
   - r-caret
+  - r-e1071
+  - r-randomforest
+  - r-ellipse
   - pip
   - pip:
     - pandas
